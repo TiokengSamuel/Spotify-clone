@@ -1,2 +1,2 @@
 # Spotify-clone
-This is an example of the spotify clone using React and and redux context api
+This is an example of the spotify clone using ReactJs, Redux-context api, Firebase, spotify Api
